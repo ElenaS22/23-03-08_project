@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lahja\\OneDrive\\Desktop\\Разработчик GB\\Специализация\\23-03-08_project\\23-03-08_project\\task_project\\task_project.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lahja\\OneDrive\\Desktop\\Разработчик GB\\Специализация\\23-03-08_project\\23-03-08_project\\task_project\\task_project.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lahja\\OneDrive\\Desktop\\Разработчик GB\\Специализация\\23-03-08_project\\23-03-08_project\\task_project\\task_project.csproj",
+        "projectName": "task_project",
+        "projectPath": "C:\\Users\\lahja\\OneDrive\\Desktop\\Разработчик GB\\Специализация\\23-03-08_project\\23-03-08_project\\task_project\\task_project.csproj",
+        "packagesPath": "C:\\Users\\lahja\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lahja\\OneDrive\\Desktop\\Разработчик GB\\Специализация\\23-03-08_project\\23-03-08_project\\task_project\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lahja\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

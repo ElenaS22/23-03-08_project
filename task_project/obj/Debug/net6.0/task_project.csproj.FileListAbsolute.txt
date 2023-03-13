@@ -1,0 +1,15 @@
+C:\Users\lahja\OneDrive\Desktop\Разработчик GB\Специализация\23-03-08_project\23-03-08_project\task_project\bin\Debug\net6.0\task_project.exe
+C:\Users\lahja\OneDrive\Desktop\Разработчик GB\Специализация\23-03-08_project\23-03-08_project\task_project\bin\Debug\net6.0\task_project.deps.json
+C:\Users\lahja\OneDrive\Desktop\Разработчик GB\Специализация\23-03-08_project\23-03-08_project\task_project\bin\Debug\net6.0\task_project.runtimeconfig.json
+C:\Users\lahja\OneDrive\Desktop\Разработчик GB\Специализация\23-03-08_project\23-03-08_project\task_project\bin\Debug\net6.0\task_project.dll
+C:\Users\lahja\OneDrive\Desktop\Разработчик GB\Специализация\23-03-08_project\23-03-08_project\task_project\bin\Debug\net6.0\task_project.pdb
+C:\Users\lahja\OneDrive\Desktop\Разработчик GB\Специализация\23-03-08_project\23-03-08_project\task_project\obj\Debug\net6.0\task_project.csproj.AssemblyReference.cache
+C:\Users\lahja\OneDrive\Desktop\Разработчик GB\Специализация\23-03-08_project\23-03-08_project\task_project\obj\Debug\net6.0\task_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lahja\OneDrive\Desktop\Разработчик GB\Специализация\23-03-08_project\23-03-08_project\task_project\obj\Debug\net6.0\task_project.AssemblyInfoInputs.cache
+C:\Users\lahja\OneDrive\Desktop\Разработчик GB\Специализация\23-03-08_project\23-03-08_project\task_project\obj\Debug\net6.0\task_project.AssemblyInfo.cs
+C:\Users\lahja\OneDrive\Desktop\Разработчик GB\Специализация\23-03-08_project\23-03-08_project\task_project\obj\Debug\net6.0\task_project.csproj.CoreCompileInputs.cache
+C:\Users\lahja\OneDrive\Desktop\Разработчик GB\Специализация\23-03-08_project\23-03-08_project\task_project\obj\Debug\net6.0\task_project.dll
+C:\Users\lahja\OneDrive\Desktop\Разработчик GB\Специализация\23-03-08_project\23-03-08_project\task_project\obj\Debug\net6.0\refint\task_project.dll
+C:\Users\lahja\OneDrive\Desktop\Разработчик GB\Специализация\23-03-08_project\23-03-08_project\task_project\obj\Debug\net6.0\task_project.pdb
+C:\Users\lahja\OneDrive\Desktop\Разработчик GB\Специализация\23-03-08_project\23-03-08_project\task_project\obj\Debug\net6.0\task_project.genruntimeconfig.cache
+C:\Users\lahja\OneDrive\Desktop\Разработчик GB\Специализация\23-03-08_project\23-03-08_project\task_project\obj\Debug\net6.0\ref\task_project.dll
